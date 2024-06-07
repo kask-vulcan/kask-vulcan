@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🖖
 - 🌱 I’m currently learning better DevOps strategies.
 - ⚡ Fun fact: I was born on the same day as the Olsen twins.
 
