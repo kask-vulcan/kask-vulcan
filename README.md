@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning better DevOps strategies.
+- ⚡ Fun fact: I was born on the same day as the Olsen twins.
+
 
 <!--
 **kask-vulcan/kask-vulcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
